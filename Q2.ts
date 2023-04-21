@@ -1,2 +1,2 @@
 let personname = "Eric";
-console.log(`Hello ${"Eric"}, would you like to learn some python today?`);
+console.log(`Hello ${"personname"}, would you like to learn some python today?`);
